@@ -1,0 +1,1 @@
+<section style="text-align: center;font-weight:bold;margin-top: 20px;">BẠN ĐÃ ĐẶT HÀNG THÀN CÔNG!<br>CHÚNG TÔI SẼ LIÊN HỆ VỚI BẠN SỚM NHẤT <br>XIN CẢM ƠN!!</section>

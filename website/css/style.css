@@ -1,0 +1,19 @@
+.highlight{color: white;font-size: 25px;font-weight: bold;}
+.pages{width: 100%;float: left;background: grey;text-align: center;margin-top: 20px;}
+.pages a{text-decoration: none;}
+header,.menu-top,aside,article,footer{float: left;border: green thin solid;box-sizing: border-box;}
+header{width: 100%;height: 100px;}
+.menu-top{width: 100%;height: 20px;}
+.menu-top>a{width: 25%;float: left;height: inherit;line-height: 18px;text-decoration: none;border-right: green thin solid;box-sizing: border-box;text-align: center;background: gold;}
+.menu-top>a:first-child{border-left: none;}
+.menu-top>section{float: left;width: 50%;border-left: green thin solid;box-sizing: border-box;}
+aside{width: 15%; min-height: 1000px; background: black;}
+article{width: 70%;min-height: 300px;}
+footer{width: 100%;height: 80px;}
+.product{border: black thin solid;width: 45.5%;height: 435px;float: left;text-align: center;margin-left: 3%;margin-top: 30px;border-radius: 10px;}
+.menu-left>a{float: left;width: 100%;margin-top: 8px;background:#E8E8E8;text-decoration: none;height: 30PX;text-align: center; color: green;}
+.menu-right>a{float: left; width: 100%;margin-top:5px;background:#E8E8E8;}
+.menu-right>a:hover{font-style:italic;text-overflow: unset;color: black; background-color:#CCFFFF;border-radius: 10px;}
+.menu-right>a{text-decoration: none;}
+.menu-left>a:hover{font-style:italic;text-overflow: unset;color: black; background-color:#CCFFFF;border-radius: 10px;}
+.logout{height: inherit;text-decoration: none;text-align: center;font-size: 18px;background-color: gold;}
